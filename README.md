@@ -8,6 +8,14 @@ Dr. Ignaz Semmelweis, a Hungarian physician born in 1818, worked at the Vienna G
 
 ![Dr. Semmelweis's Office](https://i.imgur.com/lSyNUwR.png)
 
+1. Clone the repository:
+```bash
+git clone https://github.com/j-breedlove/handwashing_dataset.git
+```
+2. Change directory:
+```bash
+cd handwashing_dataset
+```
 ## Preliminary Data Exploration
 
 The first step of the analysis is data cleaning, which includes checking for NaN values and duplicates.
